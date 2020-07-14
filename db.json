@@ -1,4 +1,4 @@
-json_string = """{
+{
       "Dan": [
             20,
             "London",
@@ -9,4 +9,4 @@ json_string = """{
             "Madrid",
             9876176
       ]
-}"""
+}
