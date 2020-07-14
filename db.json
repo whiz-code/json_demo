@@ -1,12 +1,26 @@
-{
-      "Dan": [
-            20,
-            "London",
-            3241032
-      ],
-      "Maria": [
-            25,
-            "Madrid",
-            9876176
-      ]
-}
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "delectus aut",
+    "completed": false
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "title": "quist ut nam",
+    "completed": false
+  },
+  {
+    "userId": 1,
+    "id": 3,
+    "title": "fugiat veniam",
+    "completed": true
+  },
+  {
+    "userId": 1,
+    "id": 4,
+    "title": "et porro",
+    "completed": true
+  }
+]
